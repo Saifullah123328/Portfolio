@@ -3,7 +3,7 @@ import React from 'react'
 export class Classcomp extends React.Component{
     render()
     {
-        return <h2>This is class component</h2>
+        return <h2>This is a class component</h2>
     }
 }
 
